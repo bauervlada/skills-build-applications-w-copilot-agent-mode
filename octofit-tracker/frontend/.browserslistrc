@@ -1,0 +1,6 @@
+# This file is used by react-scripts to determine supported browsers for the project
+# For more information, see: https://github.com/browserslist/browserslist
+
+> 0.2%
+not dead
+not op_mini all

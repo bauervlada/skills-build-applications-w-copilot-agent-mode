@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "react": "^19.2.4",
+    "react-router-dom": "^7.13.2",
+    "react-scripts": "^5.0.1"
+  }
+}
